@@ -1,27 +1,21 @@
-# Project 1 - LSManga
+# A collection of Jupyter Notebooks completed in my Knowledge Based Systems Classes
 
-by Spencer Johnson & Oriol Segura i Niño
-on Sunday 28th November 2021
+by Spencer Johnson
+on February-June 2023
 
-The following explanation is in conjunction with PAED Project 1
+## S
 
-## System requirements
-
-* [Python 2.7](https://www.python.org/downloads/) or later
-* Python libraries:
-	* os 
+* [Jupyter](https://jupyter.org)
+* Libraries:
+	* [Pandas](https://pandas.pydata.org) 
 	* json
 	* datetime
 	* math
 	* calendar
 
-It was tested using the Python Extension v2021.11 from [Visual Studio Code 1.62.3](https://code.visualstudio.com/download)
-
 ## How to execute the code
 
-If you are using Visual Studio Code with the Python Extension installed, you can simply click the green arrow from the top right corner to run it on the VSC terminal once the file is opened.
-
-Otherwise, open the terminal and head to the folder where the project is located and run:
+If you are using Visual Studio Code with the Python Extension installed, you 
 
 ```bash
 $ python code/read_json.py
@@ -38,6 +32,4 @@ We checked the code for all three datasets (S, M, L) and it worked properly.
 
 ## Contact
 
-Spencer Johnson - spencerjames.johnson@students.salle.url.edu - [@papasj19](https://www.instagram.com/papasj19/) - Nintendo Friend Code: SW-7216-7178-5216
-
-Oriol Segura - oriol.segura@salle.url.edu - [@0rikik0](https://www.instagram.com/0rikik0/) - [オリキコ君#2728](https://discordapp.com/users/376777722686341121)
+Spencer Johnson - spencerjames.johnson@students.salle.url.edu - [@papasj19](https://www.instagram.com/papasj19/)
