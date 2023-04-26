@@ -20,7 +20,7 @@ on February-June 2023
     * education.csv (dataset)
 
 * Predictive Analytics:
-    * `submission.ipynb`
+    * `clientAnalysis.ipynb`
     * heart.csv (dataset)
 
 * Search Algorithms:
