@@ -24,7 +24,7 @@ on February-June 2023
     * heart.csv (dataset)
 
 * Search Algorithms:
-    * `Blind_Search.ipynb`
+    * `blindSearch.ipynb`
     * mazes (a folder containing datasets of increasing sizes)
         * maze1.txt (smallest)
         * maze2.txt
@@ -36,7 +36,7 @@ The dataset that is provided and used for the Descriptive Analytics section is e
 
 The data set for Predictive Analytics is not as large as the one mentioned above. There does not exist another dataset for this section either. 
 
-To swap between the different datasets for the Search Alorithms section, just edit the line from `Blind_Search.ipynb` shown below and change the name of the txt file to one of larger size that you want to use.
+To swap between the different datasets for the Search Alorithms section, just edit the line from `blindSearch.ipynb` shown below and change the name of the txt file to one of larger size that you want to use.
 ```python
 m = Maze("/content/maze2.txt") 
 ```
