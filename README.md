@@ -43,4 +43,4 @@ m = Maze("/content/maze2.txt")
 
 ## Contact
 
-Spencer Johnson - spencerjames.johnson@students.salle.url.edu - [@papasj19](https://www.instagram.com/papasj19/)
+Spencer Johnson - spencerjames.johnson@students.salle.url.edu
